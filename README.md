@@ -5,4 +5,4 @@
 
 
 
-(https://img.shields.io/badge/listening_to-Frank_Ocean:_Self_Control-blue?logo=spotify)
+[(https://img.shields.io/badge/listening_to-Frank_Ocean:_Self_Control-blue?logo=spotify)]
